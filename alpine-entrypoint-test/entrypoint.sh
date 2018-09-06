@@ -1,3 +1,4 @@
 #!/bin/sh
-echo 'Created by entrypoint.sh' > /entrypoint_works
+export ENTRYPOINT_WORKS=success
+echo 'success' > entrypoint_works.txt
 exec "$@"
