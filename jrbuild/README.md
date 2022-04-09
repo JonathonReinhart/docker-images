@@ -4,3 +4,6 @@
 - NASM
 - Python 3
 - SCons
+
+Other tools:
+- ACPICA tools (`iasl`)
