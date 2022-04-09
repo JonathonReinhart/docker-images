@@ -1,5 +1,5 @@
 `jrbuild` is a Docker image for building software with:
-- GCC
+- GCC / G++
 - Make
 - NASM
 - Python 3
@@ -7,3 +7,4 @@
 
 Other tools:
 - ACPICA tools (`iasl`)
+- libuuid
